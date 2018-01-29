@@ -20,6 +20,7 @@ This module is an easy way to install Paphonb's Modded Pixel2 Launcher
 - Force colored Google logo option
 - Dark theme
 - Dark text theme
+- Hiding apps in the app drawer
 
 ## KNOWN BUGS
 - Date not showing on L and M
