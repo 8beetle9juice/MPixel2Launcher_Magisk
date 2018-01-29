@@ -41,9 +41,9 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "******************************"
-  ui_print "     Modded Pixel 2 Launcher    "
-  ui_print "          By Paphonb                       "
-  ui_print "     Module by Skittles9823       "
+  ui_print "     Modded Pixel 2 Launcher  "
+  ui_print "          By Paphonb          "
+  ui_print "     Module by Skittles9823   "
   ui_print "******************************"
 }
 
