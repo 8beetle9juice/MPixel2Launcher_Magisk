@@ -46,9 +46,12 @@ v3.1
 - Added option to remove white gradient under dock 
 - Should fix popup arrow on small screen
 
-v3.0.1 released to fix 6.0 crash
+v3.0.1 
+- released to fix 6.0 crash
 
-v3.0 is now released with improvements from Pixel Launcher 8.1.0-4348501 and all modded features.
+v3.0 
+- improvements from Pixel Launcher 8.1.0-4348501 and all modded features.
+
 Enjoy.
 
 Make sure to check out the XDA thread for more information.
