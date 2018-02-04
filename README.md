@@ -39,7 +39,7 @@ v3.2.1
 - Fixed top row disappearing if 'At A Glance' is disabled
 
 v3.2
-Note: This version requires you to delete the old version first to be able to upgrade.
+
 - Added an option to hide apps from drawer
 
 v3.1
