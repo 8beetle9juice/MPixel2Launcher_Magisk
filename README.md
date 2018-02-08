@@ -61,7 +61,8 @@ This module is an easy way to install Paphonb's Modded Pixel2 Launcher
 
 v4.0.2
 - Fixed MM crash from QSB
-v4.0
+
+v4.0.1
 - Based on Pixel Launcher 8.1.0-4429924
 - All previous modded features from v3.2.1
 - Optimized some backported codes
