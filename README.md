@@ -29,6 +29,9 @@ This module is an easy way to install Paphonb's Modded Pixel2 Launcher
 
 ## CHANGELOG
 
+v4.0.3-fix
+-Add Launcher3 into the replace list to ensure compatibility
+
 v4.0.3
 - Fixed crash when dragging shortcuts and when entering settings
 - Disable Samsung immersive when at home screen
