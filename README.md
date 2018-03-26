@@ -29,6 +29,11 @@ This module is an easy way to install Paphonb's Modded Pixel2 Launcher
 
 ## CHANGELOG
 
+v5.0
+- Based on Pixel launcher P-4623511
+- Fixed settings buttons visible in all apps
+- Almost all features from v4.0.3
+
 v4.0.3-fix
 -Add Launcher3 into the replace list to ensure compatibility
 
