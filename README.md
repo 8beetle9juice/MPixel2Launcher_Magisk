@@ -28,6 +28,9 @@ This module is an easy way to install Paphonb's Modded Pixel2 Launcher
 - White gradient is not a bug
 
 ## CHANGELOG
+v5.3.0
+- Added notification swipe down gesture
+- Removed Moto 5x4 fixed grid
 
 v5.2.0
 - New dock style

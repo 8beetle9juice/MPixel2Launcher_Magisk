@@ -1,7 +1,7 @@
 id=Pixel2Launcher
 name=Modded Pixel2 Launcher
-version=v5.2.0
-versionCode=52
+version=v5.3.0
+versionCode=53
 author=Skittles9823
 description=A simple way to install the modded Pixel 2 Launcher, systemlessly.
 minMagisk=1500
